@@ -1,3 +1,5 @@
+[click to see my patika.dev page](https://app.patika.dev/zynps)
+
 [16,21,11,8,12,22] -> Merge Sort
 
 **Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
