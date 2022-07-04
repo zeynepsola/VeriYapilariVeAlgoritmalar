@@ -1,4 +1,4 @@
-[patika.dev linkim](https://app.patika.dev/zynps)
+[click to go my patika.dev page](https://app.patika.dev/zynps)
 
 [22,27,16,2,18,6] -> Insertion Sort
 
